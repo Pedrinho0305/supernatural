@@ -1,41 +1,56 @@
 body {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-   background-color: aqua;
-   background-image: url(https://cdn.pixabay.com/photo/2015/10/04/17/31/abstract-971439_640.jpg);
+   background-color: blue;
+   
    ;
 }
 
+div {
+    text-align: center;
+    border-style: ridge;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+   background-color: red;
+   border-radius: 20px;
+   font-family:Brush Script MT, Brush Script Std, cursive;
+}
+
 h3 {
-    color:aqua;
+    color:black;
+    border-style: ridge;
+    border-color: black;
+    background-color: cornflowerblue;
+    border-radius: 20px;
+    border-left: 20px;
+    border-right: 20px;
+
    
 }
 h2 {
-    color:aqua;
+    color:black;
+    border-style: ridge;
+    border-color: black;
+    background-color: greenyellow ;
+    border-radius: 20px;
 }
 p {
-    color:aqua;
+    color:black;
+    background-color: gold;
 }
 h1 {
-    color:aqua;
-}
-a {
-    color:aqua;
-}
-
-#texto-blue {
-    color: blue;
-    background-color: aqua;
-}
-#texto-verde {
-    color: green;
-}
-#texto-yellow {
-    color: yellow;
+    color:black;
+    border-style: ridge;
+    border-color: black;
+    background-color: yellow;
+    border-radius: 20px;
+    border-top: 20px;
+    border-left: 20px;
+    border-right: 20px;
 }
 
-#texto-pink {
-    color: pink;
-}
+
 
 
     
